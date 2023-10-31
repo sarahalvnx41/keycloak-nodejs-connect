@@ -1,4 +1,4 @@
-# Keycloak Node.js Adapter
+Keycloak Node.js Adapter
 
 ![Build Status](https://github.com/keycloak/keycloak-nodejs-connect/workflows/CI/badge.svg)
 
